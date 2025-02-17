@@ -16,7 +16,7 @@ export default defineConfig({
     },
   },
   build: {
-    outDir: 'build', // Папка для сборки
+    outDir: 'dist', // Папка для сборки
     sourcemap: true, // Генерация sourcemap
   },
   css: {
